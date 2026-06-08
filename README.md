@@ -16,7 +16,7 @@ Cost data is account-wide. Recommendation scans run per region with isolated err
 
 ## Architecture diagram
 
-![AWS Cost Optimizer Architecture](<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/55ad91f1-2966-43b6-8e2e-111b78ae721e" />)
+![AWS Cost Optimizer Architecture](<img width="1536" height="1024" alt="Generated_image" src="https://github.com/user-attachments/assets/fb386405-b291-41dd-85c7-e874e73752d2" />)
 
 | Asset | Use |
 |-------|-----|
