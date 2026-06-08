@@ -15,9 +15,6 @@ Every night at **02:00 UTC**, an EventBridge schedule invokes a Lambda function 
 Cost data is account-wide. Recommendation scans run per region with isolated error handling — a failure in one region does not stop the rest.
 
 ## Architecture diagram
-
-![AWS Cost Optimizer Architecture](<img width="1536" height="1024" alt="Generated_image" src="https://github.com/user-attachments/assets/fb386405-b291-41dd-85c7-e874e73752d2" />)
-
 <img width="1536" height="1024" alt="Generated_image" src="https://github.com/user-attachments/assets/f41131b0-7d7a-445a-8de3-d8176c3ad5fc" />
 
 | Asset | Use |
