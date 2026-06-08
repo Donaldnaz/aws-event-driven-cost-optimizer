@@ -1,0 +1,10 @@
+**/.terraform/
+*.tfstate
+*.tfstate.*
+terraform/modules/lambda/lambda_package.zip
+lambda/.pytest_cache/
+__pycache__/
+*.pyc
+.env
+terraform.tfvars
+out.json
